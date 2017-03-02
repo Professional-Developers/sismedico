@@ -13,7 +13,7 @@
     <div class="span12">-->
 <div class="col-lg-12">
     <div class="page-header">
-        <h4>Registro y Asignación de Usuarios</h4>
+        <h4>Registro y Asignación de Usuarios 2017</h4>
     </div>
     <div style="margin-bottom: 20px;">
         <ul id="ListasUsers" class="nav nav-tabs pattern">
