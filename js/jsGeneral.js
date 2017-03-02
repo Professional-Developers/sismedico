@@ -12,7 +12,6 @@ function NewCKEditormini(IdTextArea){
         ['Bold', 'Italic', 'Underline', '-', 'NumberedList', 'BulletedList', '-', 'Undo', 'Redo', '-','JustifyLeft','JustifyCenter','JustifyRight','JustifyBlock'],
         ]
     };
-    ////
     $( '#'+IdTextArea ).ckeditor(config);
 
 }
